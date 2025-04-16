@@ -2,7 +2,7 @@
 A movie discovery and watchlist application built with the MERN stack.
 
 # 🚀 Live Demo
-🔗 movie-app-so4z.onrender.com
+🔗 [movie-app-so4z.onrender.com](https://movie-app-so4z.onrender.com/)
 
 # 📌 Features
 
