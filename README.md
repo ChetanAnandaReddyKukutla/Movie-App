@@ -1,4 +1,4 @@
-# 🎬 MovieWatchListApp
+# 🎬 Movie - LaviPlay
 A movie discovery and watchlist application built with the MERN stack.
 
 # 🚀 Live Demo
